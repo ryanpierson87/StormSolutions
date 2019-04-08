@@ -1,3 +1,2 @@
-Simple webpage about Potlucks with a little bit of hidden scraps of a story
+Simple webpage for YourStormSolutions
 
-Bootstrap/jQuery/CSS/Javascript
